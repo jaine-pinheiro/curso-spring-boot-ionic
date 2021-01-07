@@ -1,7 +1,6 @@
 package com.jp.cursomc;
 
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,7 +14,6 @@ import com.jp.cursomc.domain.Cliente;
 import com.jp.cursomc.domain.Endereco;
 import com.jp.cursomc.domain.Estado;
 import com.jp.cursomc.domain.ItemPedido;
-import com.jp.cursomc.domain.ItemPedidoPK;
 import com.jp.cursomc.domain.Pagamento;
 import com.jp.cursomc.domain.PagamentoComBoleto;
 import com.jp.cursomc.domain.PagamentoComCartao;
